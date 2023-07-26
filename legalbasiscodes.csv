@@ -1,0 +1,10 @@
+LegalBasisCode,Description
+CC,City/County. A multi-jurisdictional entity that is operated jointly by a county and a city.
+CI,"Municipal Government (city, town, or village). A municipal government is an organized local government authorized in a state's constitution and statutes and established to provide general government for a specific concentration of population in a defined area. "
+CO,County/Parish. An organized local government authorized in a state's constitution and statutes and established to provide general government.
+LD,"Library District. A library district is a local entity other than a county, municipality, township, or school district that is authorized by state law to establish and operate a public library as defined by FSCS. It has sufficient administrative and fiscal autonomy to qualify as a separate government. Fiscal autonomy requires support from local taxation dedicated to library purposes (e.g., a library tax)."
+MJ,Multi-jurisdictional. An entity operated jointly by two or more units of local government under an intergovernmental agreement which creates a jointly appointed board or similar means of joint governance; to be distinguished from a library which contracts to serve other jurisdictions and from special library districts.
+NL,Native American Tribal Government. An organized local government authorized and established to provide general government to residents of a Native American reservation. Note: Include native Alaskan villages in this category.
+NP,Nonprofit Association or Agency. An entity privately controlled but meeting the statutory definition of a public library in a given state; includes association libraries and libraries with 501(c) designation.
+SD,"School District. An organized local entity providing public elementary, secondary, and/or higher education, which under state law, has sufficient administrative and fiscal autonomy to qualify as a separate government. Excludes ""dependent public school systems"" of county, municipal, township, or state governments."
+OT,Other.
