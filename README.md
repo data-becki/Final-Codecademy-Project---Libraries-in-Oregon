@@ -3,4 +3,4 @@ This is the final project in the codecademy Data Science Career Path, using Pyth
 
 The goal of this project was to find a dataset and conduct analysis on it.
 
-I hope to revisit this project one day when I've acquired more skills and find it's become so easy to do this modeling.
+I hope to revisit this project when I've acquired yet more skills and find it so easy to do this modeling.
